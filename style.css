@@ -1,0 +1,67 @@
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* }
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.noto-sans kr-<uniquifier > {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+.gasoek-one-regular {
+  font-family: "Gasoek One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+#content {
+  padding: 20px;
+}
+
+label {
+  margin: 5px;
+}
+input {
+  margin: 5px;
+}
+button {
+  margin: 5px;
+}
+span {
+  margin: 5px;
+}
+
+#yarnInput {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+#yarn-list div {
+  display: flex;
+  justify-content: center;
+}
+
+#result {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+footer {
+  color: black;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
